@@ -178,5 +178,5 @@ build/reports/jacoco/test/html/index.html
 - **Mockito**
 - **Jacoco**  
 
-## 📌 Link para acceder al protecto
+## 📌 Link para acceder al proyecto
 https://mutant-detector-api-8.onrender.com/swagger-ui/index.html#/
