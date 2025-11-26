@@ -1,7 +1,7 @@
 
 FROM eclipse-temurin:17-jdk-jammy as build
 WORKDIR /workspace
-COPY . .
+COPY MutantDetectorApplication .
 RUN ./gradlew bootJar --no-daemon
 FROM eclipse-temurin:17-jre-jammy
 WORKDIR /app
